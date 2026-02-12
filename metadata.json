@@ -1,0 +1,5 @@
+{
+  "name": "We Watch",
+  "description": "A real-time synchronized YouTube watching experience. Create rooms, invite friends, vote on the next video, and chat while you watch. Powered by Gemini for smart video discovery.",
+  "requestFramePermissions": []
+}
